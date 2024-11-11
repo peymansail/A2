@@ -1,0 +1,2 @@
+assume the program is running on a hypercube network
+mpicxx -std=c++17 qsp_null.cpp -o qsp_null.o
